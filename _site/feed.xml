@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2025-05-15T22:05:07-06:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Shmorgishborg</title>
+  
+
+  
+    <subtitle>Mixed Media Storyteller. Storyboarding, Puppetry, and Illustration and whatever other medium I can get my grubby little hands on. Eco-conscious creation. </subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Storyboard</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Storyboard" />
+      <published>2014-07-18T00:00:00-06:00</published>
+      <updated>2014-07-18T00:00:00-06:00</updated>
+      <id>http://localhost:4000/storyboard</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Puppetry</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Puppetry" />
+      <published>2014-07-18T00:00:00-06:00</published>
+      <updated>2014-07-18T00:00:00-06:00</updated>
+      <id>http://localhost:4000/puppetry</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Sketchbook</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Sketchbook" />
+      <published>2014-07-18T00:00:00-06:00</published>
+      <updated>2014-07-18T00:00:00-06:00</updated>
+      <id>http://localhost:4000/sketchbook</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

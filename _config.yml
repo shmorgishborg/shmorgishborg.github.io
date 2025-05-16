@@ -1,0 +1,79 @@
+# Site settings
+title: Shmorgishborg
+email: Howdy@shmorgishb.org
+url: https://github.com/jeromelachaud/freelancer-theme
+description: "Mixed Media Storyteller. Storyboarding, Puppetry, and Illustration and whatever other medium I can get my grubby little hands on. Eco-conscious creation. "
+keywords: "Multi Media, Puppeteer, Storyboard, Film Maker, Illustration"
+skills: "Mixed Media Story Teller"
+meta_author: LastName FirstName
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 34291E #80B3FF
+  primary-rgb: "147,159,46" #"128,179,255"
+  secondary:  271E16
+  secondary-dark: 0D3244 #A2122F
+
+# Footer settings
+footer:
+  copyright: Shmorgishborg LLC
+  location: Thank you!
+  social: Mycelial Network
+  credits: Connect
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://www.instagram.com/sh.morg.ishborg
+    icon: fa-brands fa-fw fa-instagram
+  - title: pinterest
+    url: https://www.pinterest.com/Shm0rg1shb0rg
+    icon: fa-brands fa-fw fa-pinterest
+  - title: linkedin
+    url: https://www.linkedin.com/in/morgan-boyd-90a150215
+    icon: fa-brands fa-fw fa-linkedin
+  - title: substack
+    url: https://substack.com/@shmorgishborg
+    icon: fa-regular fa-fw fa-bookmark
+  - title: ko-fi
+    url:  https://ko-fi.com/shmorgishborg
+    icon: fa-solid fa-fw fa-mug-hot
+
+# Postal address (add as many lines as necessary)
+address: 
+  - line: I appreciate you stopping by. Come again soon! :)
+  
+
+# Credits content
+credits: 'Howdy@shmorghishb.org'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
+
+collections:
+  story:
+    output: true
+  puppet:
+    output: true
+  sketch:
+    output: true
+

@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 8
+date: 2014-07-18
+img: 
+alt: Click for Info
+category: Web Development
+description: Puppetry files currently being organized and formatted into the web-dev. - Morgan
+---
