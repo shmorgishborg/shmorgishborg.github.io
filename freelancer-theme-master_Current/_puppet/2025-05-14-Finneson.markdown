@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 10
+date: 2014-07-18
+img: FinnatLBX.jpg 
+alt: Click for Info
+category: Puppet Fabrication
+description: Finneson at the 'Colossal Characters' plein air session with James Gurney at Lightbox Expo 2024
+video-id: 
+---
