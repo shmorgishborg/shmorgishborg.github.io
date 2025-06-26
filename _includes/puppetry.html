@@ -13,7 +13,11 @@
         <a href="#puppetryModal-{{ post.modal-id }}" class="puppetry-link" data-toggle="modal">
           <div class="caption">
             <div class="caption-content">
-              <i class="fa fa-search-plus fa-3x"></i>
+              {% if post.video-id %}
+                <i class="fa fa-circle-play fa-3x"></i>
+              {% else %}
+                <i class="fa fa-search-plus fa-3x"></i>
+              {% endif %}
             </div>
           </div>
           <img src="img/puppetry/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
